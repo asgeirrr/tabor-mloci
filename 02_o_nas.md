@@ -8,6 +8,16 @@ Naše parta vedoucích pořádá tábory už více než 12 let. Navazujeme na tr
 tábora Údolí mloků u řeky Berounky v křivoklátských lesích.
 
 {% include person.html
+  name="Péťa Šantínová"
+  avatar="/assets/img/peta_santinova.jpg"
+  role="Hlavní vedoucí"
+  about="Péťa vystudoval architekturu na stavárně ČVUT v Praze a následně i učitelství, aby se více přiblížila práci s dětmi. Ve své praxi vystřídala vedle práce v architektonických ateliérech také práci na základní a střední škole.
+<br>
+Již od dětství jezdila na dětské tábory a poté co odrostla školní docházce jí láska k táborům neopustila a pokračovala jako praktikant, později vedoucí a časem i hlavní vedoucí. Funkci hlavního vedoucího zastává víc než 8 let. V současnosti je na mateřské a ji zastoupí její manžel Jirka, který jí celá ta léta pomáhá.
+<br>
+Jejími koníčky jsou tvoření všeho druhu, hraní na hudební nástroje, zpěv, tanec a dlouhé procházky. Péťa má hlavu plnou kreativních nápadů. Snaží se kolem sebe stále šířit dobrou náladu, protože je pro ní důležité, aby děti trávily čas na táboře s úsměvem. S úsměvem jde totiž vše lépe! " %}
+
+{% include person.html
   name="Iva Germek"
   avatar="/assets/img/iva_germek.jpg"
   role="Zdravotnice"

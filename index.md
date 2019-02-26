@@ -4,7 +4,8 @@ title: Stěhování národů 2019
 permalink: /
 ---
 
-Tábor proběhne v roce 2019 na novém místě v termínu **od 6. do 20.7.2019**.
+Tábor proběhne v roce 2019 na novém místě v termínu **od 6. do 20.7.2019**,
+celková cena je **3 950 Kč**.
 
 Nové místo znamená i návrat k tradici menšího tábora se silnou
 celotáborovkou. Kromě té se děti mohou těšit na spoustu zpěvu a zlepšování
@@ -14,6 +15,6 @@ rukodělných, divadelních i zálesáckých dovedností.
 Potštátu a vojenského újezdu Libavá.
 
 
-## Celotáborovka
-
-TBD
+<a href="/assets/img/plakat_2019.jpg" >
+  <img class="" src="/assets/img/plakat_2019.jpg" />
+</a>
