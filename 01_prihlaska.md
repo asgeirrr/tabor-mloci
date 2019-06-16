@@ -37,3 +37,4 @@ Při nástupu dítěte na tábor je nutné dodat všechny následující dokumen
 -- praktický lékař musí potvrdit, že dítě je schopné účastnit se tábora
 * [nástupní list a bezinfekčnost](/assets/doc/nastupni_list_a_bezinfekcnost.pdf)
 * [udělení souhlasu se zpracováním osobních údajů (GDPR)](/assets/doc/gdpr.pdf)
+* [seznam věcí na tábor](/assets/doc/seznam_veci.pdf)
