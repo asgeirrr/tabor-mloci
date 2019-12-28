@@ -1,5 +1,4 @@
 ---
-layout: page
 title: O nás
 permalink: /o-nas/
 ---
@@ -23,7 +22,7 @@ Jejími koníčky jsou tvoření všeho druhu, hraní na hudební nástroje, zp�
   name="Iva Germek"
   avatar="/assets/img/iva_germek.jpg"
   role="Zdravotnice"
-  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce. Má 26 let zdravotnické praxe. Na tábory začala jezdi se svými dětmi. Je velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého programu. Na táboře je velice akční a najdete ji vždycky tam kde je smích a zábava.
+  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce. Má 26 let zdravotnické praxe. Na tábory začala jezdit se svými dětmi. Je velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého programu. Na táboře je velice akční a najdete ji vždycky tam kde je smích a zábava.
 Čím Ivču nejlépe vystihnout? Nejlépe asi větou „Adrenalin denním chlebem, klid za odměnu“." %}
 
 {% include person.html
@@ -37,9 +36,7 @@ Jejími koníčky jsou tvoření všeho druhu, hraní na hudební nástroje, zp�
   name="Kačka Musílková"
   avatar="/assets/img/kacka_musilkova.jpg"
   role="Vedoucí"
-  about="Kačka studuje v Praze Architekturu na ČVUT a s dočasným přerušením i Dějiny umění na Univerzitě Karlově.
-<br>
-Už odmala však z hlavního města unikala o prázdninách do přírody na tábor a po dvou letech pauzy to nevydržela bez táborové atmosféry a začala jezdit jako praktikantka a posléze vedoucí. Pro práci s dětmi jí pomohlo vyškolit i vyrůstání se třemi sourozenci.
+  about="Kačka studuje v Praze Architekturu na ČVUT a s dočasným přerušením i Dějiny umění na Univerzitě Karlově. Už odmala však z hlavního města unikala o prázdninách do přírody na tábor a po dvou letech pauzy to nevydržela bez táborové atmosféry a začala jezdit jako praktikantka a posléze vedoucí. Pro práci s dětmi jí pomohlo vyškolit i vyrůstání se třemi sourozenci.
 <br>
 Ve svém volnu si jednou týdně zaběhá při florbale a čas od času ráda zahraje na klavír. Přitahuje jí tajuplnost historie a všech památek, které zanechala. Na výlet ale s nadšením vyrazí i do hor. " %}
 

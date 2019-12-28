@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Přihláška
 permalink: /prihlaska/
 ---

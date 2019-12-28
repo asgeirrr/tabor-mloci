@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Stěhování národů 2019
 permalink: /
 ---
@@ -15,6 +14,6 @@ rukodělných, divadelních i zálesáckých dovedností.
 Potštátu a vojenského újezdu Libavá.
 
 
-<a href="/assets/img/plakat_2019.jpg" >
-  <img class="" src="/assets/img/plakat_2019.jpg" />
+<a href="/assets/img/2019/01.jpg" >
+  <img class="" src="/assets/img/2019/01.jpg" />
 </a>

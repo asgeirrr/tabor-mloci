@@ -1,0 +1,8 @@
+# main links
+main:
+   - title: "Přihláška"
+     url: /prihlaska/
+   - title: "O nás"
+     url: /o-nas/
+   - title: "Místo"
+     url: /o-mistu/
