@@ -15,3 +15,7 @@ divadelních i zálesáckých a technických dovedností.
 
 Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
 Potštátu a vojenského újezdu Libavá.
+
+<a href="/assets/img/2020/01.jpg" >
+  <img class="" src="/assets/img/2020/01.jpg" />
+</a>
