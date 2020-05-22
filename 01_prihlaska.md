@@ -25,6 +25,11 @@ Pokud potřebujete na poukaz vystavit fakturu, protože vám ho například prop
 zaměstnavatel, kontaktujte nás prosím na
 <a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a>.
 
+### Storno podmínky
+
+* V případě odhlášení dítěte nejméně dva měsíce před táborem se vrací celý táborový poplatek,
+* při odhlášení alespoň 20 dní předem 50% poplatku,
+* v případ kratšího období se poplatek nevrací.
 
 ### Dokumenty
 
