@@ -4,7 +4,9 @@ permalink: /
 ---
 
 Tábor proběhne v roce 2020 na stejném místě v termínu
-**od 11.7. do 25.7.2020**, celková cena je **3 950 Kč**.
+**od 11.7. do 24.7.2020**, celková cena je **3 950 Kč**.
+Kvůli epidemii nového koronaviru je tábor o den kratší
+kvůli požadavku MŠMT na jeden den mezi jednotlivými turnusy.
 
 Celotáborová hra se letos z minulosti přesouvá do budoucnosti.
 Místo budování silných městských států čeká děti putování po hvězdách.
