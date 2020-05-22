@@ -27,9 +27,10 @@ zaměstnavatel, kontaktujte nás prosím na
 
 ### Storno podmínky
 
-* V případě odhlášení dítěte nejméně dva měsíce před táborem se vrací celý táborový poplatek,
-* při odhlášení alespoň 20 dní předem 50% poplatku,
-* v případ kratšího období se poplatek nevrací.
+* V případě odhlášení dítěte nejméně dva měsíce před táborem se vrací celý táborový poplatek.
+* Při odhlášení alespoň 20 dní předem 50% poplatku.
+* V případ kratšího období se poplatek nevrací.
+* Pokud se dítě nemůže tábora zúčastnit z důvodu nemoci nebo úrazu, bude poplatek vrácen v plné výši.
 
 ### Dokumenty
 
