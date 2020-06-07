@@ -2,6 +2,8 @@
 main:
    - title: "Přihláška"
      url: /prihlaska/
+   - title: "Dokumenty"
+     url: /dokumenty/
    - title: "Galerie"
      url: /minule-behy/
    - title: "O nás"
