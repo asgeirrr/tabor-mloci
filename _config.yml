@@ -250,7 +250,6 @@ compress_html:
 sidebar: &sidebar
   - image: "/assets/logo.jpg"
     image_alt: "logo"
-  - text: '<p class="text-center">„Údolí mloků je tam, kde<br>jsme my.“</p>'
   - title: "Kontakt"
     text: 'E-mail: <a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a><br/>
            Tel. 736 480 211 (Miki)'
