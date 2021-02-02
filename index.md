@@ -19,5 +19,5 @@ divadelních i zálesáckých a technických dovedností.
 Potštátu a vojenského újezdu Libavá.
 
 <a href="/assets/img/2020/01.jpg" >
-  <img class="" src="/assets/img/2020/01.jpg" />
+  <img class="" src="/assets/img/2020/00.jpg" />
 </a>
