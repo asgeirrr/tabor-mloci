@@ -1,23 +1,23 @@
 ---
-title: Putování po hvězdách 2020
+title: Cesta do pravěku 2021
 permalink: /
 ---
 
-Tábor proběhne v roce 2020 na stejném místě v termínu
-**od 11.7. do 24.7.2020**, celková cena je **3 950 Kč**.
-Kvůli epidemii nového koronaviru je tábor o den kratší
-kvůli požadavku MŠMT na jeden den mezi jednotlivými turnusy.
+Tábor proběhne v roce 2021 na stejném místě v termínu
+**od 10.7. do 24.7.2020**, celková cena je **3 990 Kč**.
 
-Celotáborová hra se letos z minulosti přesouvá do budoucnosti.
-Místo budování silných městských států čeká děti putování po hvězdách.
-Jaká tajemství skrývají hvězdy a mlhoviny v hlubinách kosmu?
+Po prozkoumání tajemných hlubin kosmu v minulém roce se ponoříme do
+hlubin času, a to až do pravěku.
+Jaký byl život našich prapředků? Jak si osvojovali dovednosti, které nyní
+pokládáme za samozřejmé, a kolik z toho, bez čeho se předchůdci dnešních
+lidí neobešli, jsme my dávno zapomněli?
 
-Jejich odhalení se neobejde bez spousty zpěvu a zlepšování rukodělných,
-divadelních i zálesáckých a technických dovedností.
+Ani cesta do pravěku se neobejde bez spousty zpěvu a zlepšování
+rukodělných, divadelních i zálesáckých dovedností.
 
 Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
 Potštátu a vojenského újezdu Libavá.
 
-<a href="/assets/img/2020/01.jpg" >
-  <img class="" src="/assets/img/2020/00.jpg" />
+<a href="/assets/img/2021/00.jpg" >
+  <img class="" src="/assets/img/2021/00.jpg" />
 </a>
