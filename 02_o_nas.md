@@ -41,6 +41,15 @@ Jejími koníčky jsou tvoření všeho druhu, hraní na hudební nástroje, zp�
 Ve svém volnu si jednou týdně zaběhá při florbale a čas od času ráda zahraje na klavír. Přitahuje jí tajuplnost historie a všech památek, které zanechala. Na výlet ale s nadšením vyrazí i do hor. " %}
 
 {% include person.html
+  name="Erika Musílková"
+  avatar="/assets/img/erika_musilkova.jpg"
+  role="Vedoucí"
+  about="Erika studuje na Právnické fakultě UK v Praze. Pochází ze čtyř sourozenců, takže ráda blbne s dětmi každého věku, a nikdy jí nedojde energie na další hry.
+Na tábory jezdí od svých šesti let a tak již odmalička čerpala magickou atmosféru přátelství a zábavy, která na táboře vzniká, a chce ji předávat dětem tak, jak ji znala a milovala ona. <br>
+Má velmi ráda hudbu v jakékoli podobě, takže si většinu času něco prozpěvuje a pokaždé s sebou strhne i ostatní. Ve volném čase si také často zahraje na klavír a věnuje se malbě a mnoha sportovním aktivitám. Dvanáct let dělala závodně moderní gymnastiku, ale ani potom bez sportu nevydržela a chodí pro zábavu na badminton, squash, nebo si zatančit.<br>
+Ráda si s dětmi povídá o jejich zálibách, poslouchá jejich příběhy a směje se s nimi. Myslí si, že nejvíce se toho člověk naučí právě od nich." %}
+
+{% include person.html
   name="Oskar Hollmann"
   avatar="/assets/img/oskar_hollmann.jpg"
   role="Vedoucí"
