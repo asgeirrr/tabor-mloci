@@ -21,8 +21,8 @@ Platební údaje pro platbu ze **Slovenska**:
 * Částka: **3 990 Kč**
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
-Celou částku prosíme **uhradit do 15. května**, déle nemůžeme dítěti držet
-místo bez zaplacení a může se stát, že místo přepustíme náhradníkovi,
+Celou částku prosíme uhradit **do 14 dnů po přihlášení**, nejpozději pak do **15. června**,
+déle nemůžeme dítěti držet místo bez zaplacení a může se stát, že místo přepustíme náhradníkovi,
 který zaplatí.
 
 Pokud potřebujete na poukaz vystavit fakturu, protože vám ho například proplácí
