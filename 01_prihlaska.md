@@ -21,7 +21,7 @@ Platební údaje pro platbu ze **Slovenska**:
 * Částka: **4 190 Kč**
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
-Celou částku prosíme uhradit **do 14 dnů po přihlášení**, nejpozději pak do **15. června**,
+Celou částku prosíme uhradit **do 14 dnů po přihlášení**, nejpozději pak do **1. června**,
 déle nemůžeme dítěti držet místo bez zaplacení a může se stát, že místo přepustíme náhradníkovi,
 který zaplatí.
 
