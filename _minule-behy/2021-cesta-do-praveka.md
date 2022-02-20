@@ -7,4 +7,5 @@ gallery:
   - url: /assets/img/2021/00.jpg
     image_path: /assets/img/thumbnails/2021/00.jpg
     alt: ""
-    title: ""
+---
+{% include gallery caption="" %}   title: ""
