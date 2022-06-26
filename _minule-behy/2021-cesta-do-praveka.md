@@ -232,5 +232,6 @@ gallery:
   - url: /assets/img/2021/75.jpg
     image_path: /assets/img/thumbnails/2021/75.jpg
     alt: ""
+    title: ""
 ---
-{% include gallery caption="" %}   title: ""
+{% include gallery caption="" %}
