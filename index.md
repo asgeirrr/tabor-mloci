@@ -1,7 +1,14 @@
 ---
-title: Začarovaný les 2022
+title: Tábor s mloky 2023
 permalink: /
 ---
+
+
+Tábor v roce 2023 proběhne na stejném místě a v obdobném termínu jako v předchozích letech. Podrobnosti uvedeme a přihlašování spustíme přibližně v polovině ledna.
+
+
+# Začarovaný les 2022
+
 
 Tábor proběhne v roce 2022 na stejném místě v termínu
 **od 9.7. do 23.7.2022**, celková cena je **4 190 Kč**.
