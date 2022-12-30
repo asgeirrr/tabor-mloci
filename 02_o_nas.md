@@ -23,7 +23,7 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
   name="Iva Germek"
   avatar="/assets/img/iva_germek.jpg"
   role="Zdravotnice"
-  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce. Má 26 let zdravotnické praxe. Na tábory začala jezdit se svými dětmi. Je velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého programu. Na táboře je velice akční a najdete ji vždycky tam kde je smích a zábava.
+  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce. Má 26 let zdravotnické praxe. Na tábory začala jezdit se svými dětmi. Je velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého programu. Na táboře je velice akční a najdete ji vždycky tam, kde je smích a zábava.
 Čím Ivču nejlépe vystihnout? Nejlépe asi větou „Adrenalin denním chlebem, klid za odměnu“." %}
 
 {% include person.html
