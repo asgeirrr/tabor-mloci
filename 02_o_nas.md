@@ -3,7 +3,7 @@ title: O nás
 permalink: /o-nas/
 ---
 
-Naše parta vedoucích pořádá tábory už více než 12 let. Navazujeme na tradici
+Naše parta vedoucích pořádá tábory už více než 13 let. Navazujeme na tradici
 tábora Údolí mloků u řeky Berounky v křivoklátských lesích.
 
 Nyní pořádáme tábor pod záštitou **zapsaného spolku Mloci**, jehož členy většina z nás je.

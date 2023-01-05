@@ -1,29 +1,23 @@
 ---
-title: Tábor s mloky 2023
+title: Cesta kolem světa 2023
 permalink: /
 ---
 
 
-Tábor v roce 2023 proběhne na stejném místě a v obdobném termínu jako v předchozích letech. Podrobnosti uvedeme a přihlašování spustíme přibližně v polovině ledna.
+Tábor v roce 2023 proběhne na stejném místě v termínu
+**od 8.7. do 22.7 2023**, celková cena je **5 100 Kč**.
 
+Poté, co jsme v začarovaném lese poznávali tajemné kouzelné bytosti,
+vydáme se tentokrát na cestu kolem světa. Jako cestovatelé a
+dobrodruzi budeme putovat do dálných končin světa a rozkrývat
+tamní tajemství.
 
-# Začarovaný les 2022
-
-
-Tábor proběhne v roce 2022 na stejném místě v termínu
-**od 9.7. do 23.7.2022**, celková cena je **4 190 Kč**.
-
-Poté, co jsme v období pravěku prožili vývoj člověka od primátů až
-po homo sapiens, zatouláme se do začarovaného lesa plného
-nádherných, tajemných a někdy i nebezpečných bytostí,
-které dnes již běžně nepotkáváme.
-
-Lesem rozhodně neprojdeme bez spousty zpěvu a zlepšování
+Světem rozhodně neprojedeme bez spousty zpěvu a zlepšování
 rukodělných, divadelních i zálesáckých dovedností.
 
 Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
 Potštátu a vojenského újezdu Libavá.
 
-<a href="/assets/img/2022/00.jpg" >
-  <img class="" src="/assets/img/2022/00.jpg" />
+<a href="/assets/img/2023/00.jpg" >
+  <img class="" src="/assets/img/2023/00.jpg" />
 </a>
