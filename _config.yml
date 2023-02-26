@@ -251,8 +251,10 @@ sidebar: &sidebar
   - image: "/assets/logo.jpg"
     image_alt: "logo"
   - title: "Kontakt"
-    text: 'E-mail: <a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a><br/>
+  - text: 'E-mail: <a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a><br/>
            Tel. 736 480 211 (Miki)'
+  - title: "Adresa do tábora"
+  - text: "Tábor mloci<br>Lipná 46<br>Potštát 753 62"
   - text: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.041019102482!2d17.689709115881257!3d49.6667011514054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4713c80ba72ea56f%3A0x72be962b2737d36a!2zTGlwbsOhIDQ2LCA3NTMgNjIgUG90xaF0w6F0!5e1!3m2!1scs!2scz!4v1547399742364" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>'
 
 # Defaults
