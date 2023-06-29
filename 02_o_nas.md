@@ -42,7 +42,7 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
     tábory má bohaté jako učitelka plavání i zdravotnice, navíc na tábory
     jezdila celé své dětství i dospívání. V tradici pokračuje i se svými
     dětmi, které již několikátý rok jezdí s Mloky. <br>
-    Jako její děti, tak i Eva byla vedená k táborovémuduchu, zná nepřeberné
+    Jako její děti, tak i Eva byla vedená k táborovému duchu, zná nepřeberné
     množství táborových písní, také je ráda zpívá :). Nikdy nezkazí žádnou
     legraci a také se na spoustě legrace podílí ;). <br>
     Pochází z maloměsta nad Sázavou takže: řeka, plavání, brusle, lyže,
