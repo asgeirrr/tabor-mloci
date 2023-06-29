@@ -51,14 +51,12 @@ Má velmi ráda hudbu v jakékoli podobě, takže si většinu času něco prozp
 Ráda si s dětmi povídá o jejich zálibách, poslouchá jejich příběhy a směje se s nimi. Myslí si, že nejvíce se toho člověk naučí právě od nich." %}
 
 {% include person.html
-  name="Oskar Hollmann"
-  avatar="/assets/img/oskar_hollmann.jpg"
+  name="Céca Sekalová"
+  avatar="/assets/img/ceca_sekalova.jpg"
   role="Vedoucí"
-  about=" Oskar vystudoval Softwarové inženýrství a Počítačové vidění na Fakultě elektrotechnické, ČVUT. Nyní se živý jako programátor.
+  about="Céca momentálně studuje v Praze práva a k tomu žurnalistiku na Karlově univerzitě. Na tábory s mloky jezdí odmalička a každým rokem se na pobyt s dětmi v přírodě těší.
 
-Na tábory jezdil už jako dítě, pak praktikant a nyní pojede po jedenácté jako oddílový vedoucí. Rád si ze sebe dělá srandu pro pobavení dětí. Baví ho vymýšlet příběhy, se kterými se mohou ztotožnit a z kterých se zároveň poučí.
-
-V civilním životě tráví volný čas hlavně jógou, četbou a sledováním filmů. Ze sportovních aktivit je to pak tanec, squash nebo lezení a dříve mnoho let historický šerm. Oskar moc mluví a moc se stará, což je v životě často problém, ale na tábor se to hodí. " %}
+  I když se zprvu může zdát spíš jako tichá čtenářka, na táborech ráda předvádí různé taneční kreace na diskotékách,  zpívá vždy, když je k tomu příležitost, a s každým se ráda seznámí. Sama sice neexceluje v týmových sportech, svému oddílu ale nadšeně fandí ve všech kláních. Ve volném čase se vyžívá ve všech formách umění, proto je možné ji během roku potkat hlavně v galeriích a kinech. Za pohybem vyráží hlavně do přírody, bazénu, nebo na taneční sál." %}
 
 
 {% include person.html
