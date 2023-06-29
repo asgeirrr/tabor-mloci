@@ -23,8 +23,32 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
   name="Iva Germek"
   avatar="/assets/img/iva_germek.jpg"
   role="Zdravotnice"
-  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce. Má 26 let zdravotnické praxe. Na tábory začala jezdit se svými dětmi. Je velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého programu. Na táboře je velice akční a najdete ji vždycky tam, kde je smích a zábava.
-Čím Ivču nejlépe vystihnout? Nejlépe asi větou „Adrenalin denním chlebem, klid za odměnu“." %}
+  about="Ivča je dětská sestra pracující v akutní péči v nemocnici Na Homolce.
+    Má 34 let zdravotnické praxe. Na tábory začala jezdit se svými dětmi. Je
+    velice ochotná a pečlivá, schopná vymyslet spoustu zábavy a bohatého
+    programu. Na táboře je velice akční a najdete ji vždycky tam, kde je smích
+    a zábava.<br>
+    Čím Ivču nejlépe vystihnout? Nejlépe asi větou „Adrenalin denním chlebem,
+    klid za odměnu“."
+%}
+
+
+{% include person.html
+  name="Eva Smékalová"
+  avatar="/assets/img/eva_smekalova.jpg"
+  role="Zdravotnice II"
+  about="Eva je sestra u dospělých pacientů, pracuje v akutní péči NNH,
+    prošla chirurgickým oddělením a také záchrankou. Zkušenosti s dětskými
+    tábory má bohaté jako učitelka plavání i zdravotnice, navíc na tábory
+    jezdila celé své dětství i dospívání. V tradici pokračuje i se svými
+    dětmi, které již několikátý rok jezdí s Mloky. <br>
+    Jako její děti, tak i Eva byla vedená k táborovémuduchu, zná nepřeberné
+    množství táborových písní, také je ráda zpívá :). Nikdy nezkazí žádnou
+    legraci a také se na spoustě legrace podílí ;). <br>
+    Pochází z maloměsta nad Sázavou takže: řeka, plavání, brusle, lyže,
+    zpěv tanec... nic není nemožné! Hlavně když jsou tváře kolem rozesmáté!"
+%}
+
 
 {% include person.html
   name="Miki Jouza"
