@@ -74,6 +74,7 @@ Na tábory jezdí od svých šesti let a tak již odmalička čerpala magickou a
 Má velmi ráda hudbu v jakékoli podobě, takže si většinu času něco prozpěvuje a pokaždé s sebou strhne i ostatní. Ve volném čase si také často zahraje na klavír a věnuje se malbě a mnoha sportovním aktivitám. Dvanáct let dělala závodně moderní gymnastiku, ale ani potom bez sportu nevydržela a chodí pro zábavu na badminton, squash, nebo si zatančit.<br>
 Ráda si s dětmi povídá o jejich zálibách, poslouchá jejich příběhy a směje se s nimi. Myslí si, že nejvíce se toho člověk naučí právě od nich." %}
 
+
 {% include person.html
   name="Céca Sekalová"
   avatar="/assets/img/ceca_sekalova.jpg"
@@ -81,6 +82,22 @@ Ráda si s dětmi povídá o jejich zálibách, poslouchá jejich příběhy a s
   about="Céca momentálně studuje v Praze práva a k tomu žurnalistiku na Karlově univerzitě. Na tábory s mloky jezdí odmalička a každým rokem se na pobyt s dětmi v přírodě těší.
 
   I když se zprvu může zdát spíš jako tichá čtenářka, na táborech ráda předvádí různé taneční kreace na diskotékách,  zpívá vždy, když je k tomu příležitost, a s každým se ráda seznámí. Sama sice neexceluje v týmových sportech, svému oddílu ale nadšeně fandí ve všech kláních. Ve volném čase se vyžívá ve všech formách umění, proto je možné ji během roku potkat hlavně v galeriích a kinech. Za pohybem vyráží hlavně do přírody, bazénu, nebo na taneční sál." %}
+
+
+{% include person.html
+  name="Máťa Coufal"
+  avatar="/assets/img/mata_coufal.jpg"
+  role="Vedoucí"
+  about="Máťa studuje v Praze herectví - obor činohry a moderování. Na tábor 
+  jezdí už od malého prcka, později s sebou vzal i své dvě mladší sestry. 
+  A jak to tak bývá, vyrostl nám jako z vody a přes pozici praktikanta se
+  stal oddílovým vedoucím.
+
+  Společně s Verčou tvoří nerozlučnou dvojku plnou smíchu, bláznivých
+  nápadů a vždy dobré nálady. Mezi jeho největší záliby patří vše co se týče
+  divadelního světa, hudby, zpěvu a tance. A toto nadšení se nakažlivě snaží
+  šířit dál mezi táborníky." 
+  %}
 
 
 {% include person.html
