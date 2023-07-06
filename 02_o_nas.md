@@ -107,6 +107,24 @@ Ráda si s dětmi povídá o jejich zálibách, poslouchá jejich příběhy a s
 
 
 {% include person.html
+  name="Elizabeth Peterková"
+  avatar="/assets/img/eliz_peterkova.jpg"
+  role="Vedoucí"
+  about="Eliz s Mloky začala jezdit jako dítě, poté jako praktikantka a nyní
+  už jako vedoucí. V každé volné minutě jí uvidíte s otevřenou knížkou v ruce
+  nebo sluchátky na uších. Přestože Bradavice jsou její vysněná škola, dopis
+  jí bohužel nikdy nepřišel a tak místo toho vystudovala technické lyceum a
+  jazykovou školu a nyní studuje na ČZU. I když byste to do ní neřekli, je to
+  zmijozelka každým coulem. Miluje zvířata, seriály, chemii a asijskou kuchyni.
+  Je cílevědomá, ambiciózní a opravdu nerada prohrává, to znamená, že do
+  fandění dává všechno, většinou hlavně hlasivky. Je hodně starostlivá a
+  citlivá, takže si dokáže hravě poradit v jakýkoliv krizových situacích, ať
+  už jde o stesk po domově před spaním, nebo o ztracenou ponožku." 
+%}
+
+
+
+{% include person.html
   name="Péťa Šantínová"
   avatar="/assets/img/peta_santinova.jpg"
   role="Táborová poletucha"
