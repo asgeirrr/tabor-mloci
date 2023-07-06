@@ -61,9 +61,15 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
   name="Kačka Musílková"
   avatar="/assets/img/kacka_musilkova.jpg"
   role="Vedoucí"
-  about="Kačka studuje v Praze Architekturu na ČVUT a s dočasným přerušením i Dějiny umění na Univerzitě Karlově. Už odmala však z hlavního města unikala o prázdninách do přírody na tábor a po dvou letech pauzy to nevydržela bez táborové atmosféry a začala jezdit jako praktikantka a posléze vedoucí. Pro práci s dětmi jí pomohlo vyškolit i vyrůstání se třemi sourozenci.
+  about="Kačka vystudovala architekturu na ČVUT v Praze. Už odmala však z
+  hlavního města unikala o prázdninách do přírody na tábor a po dvou letech
+  pauzy to nevydržela bez táborové atmosféry a začala jezdit jako
+  praktikantka a posléze vedoucí. Pro práci s dětmi jí pomohlo vyškolit i
+  vyrůstání se třemi sourozenci.
 <br>
-Ve svém volnu si jednou týdně zaběhá při florbale a čas od času ráda zahraje na klavír. Přitahuje jí tajuplnost historie a všech památek, které zanechala. Na výlet ale s nadšením vyrazí i do hor. " %}
+  Ve svém volnu si jednou týdně zaběhá při florbale a čas od času ráda
+  zahraje na klavír. Přitahuje jí tajuplnost historie a všech památek,
+  které zanechala. Na výlet ale s nadšením vyrazí i do hor." %}
 
 {% include person.html
   name="Erika Musílková"
