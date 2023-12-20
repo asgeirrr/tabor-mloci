@@ -1,22 +1,17 @@
 ---
-title: Cesta kolem světa 2023
+title: Tábor s mloky 2024
 permalink: /
 ---
 
+Tábor v roce 2024 proběhne na stejném místě v termínu
+**od 6.7. do 19.7 2024**. Cena bude upřesněna.
 
-Tábor v roce 2023 proběhne na stejném místě v termínu
-**od 8.7. do 22.7 2023**, celková cena je **5 100 Kč**.
+## Cesta kolem světa 2023
 
-Poté, co jsme v začarovaném lese poznávali tajemné kouzelné bytosti,
-vydáme se tentokrát na cestu kolem světa. Jako cestovatelé a
-dobrodruzi budeme putovat do dálných končin světa a rozkrývat
+Tábor se v roce 2023 konal v termínu od 8.7. do 22.7.
+Vydali jsme se na cestu kolem světa a jako cestovatelé a
+dobrodruzi jsme putovali do dálných končin světa a rozkrývali
 tamní tajemství.
-
-Světem rozhodně neprojedeme bez spousty zpěvu a zlepšování
-rukodělných, divadelních i zálesáckých dovedností.
-
-Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
-Potštátu a vojenského újezdu Libavá.
 
 <a href="/assets/img/2023/00.jpg" >
   <img class="" src="/assets/img/2023/00.jpg" />

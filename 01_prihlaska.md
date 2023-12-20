@@ -3,7 +3,9 @@ title: Přihláška
 permalink: /prihlaska/
 ---
 
-Na tábor můžete své děti přihlásit v [tomto formuláři](https://docs.google.com/forms/d/e/1FAIpQLSfq9MpVFLWryTJWzg8wjl94B1kXwxSvyIsg0JqcOM5IQs8lhg/viewform?usp=sf_link).
+Na tábor můžete své děti přihlásit v online formuláři, který bude zpřístupněn 
+na této stránce 15. 1. 2024.
+
 
 ### Platební údaje
 
@@ -11,14 +13,14 @@ Po vyplnění přihlášky pošlete prosím platbu za táborový poukaz na násl
 účet, nezapomeňte prosím na variabilní symbol, abychom mohli spárovat platbu.
 
 * Číslo účtu: **2501627820/2010** (Fio banka)
-* Částka: **5 100 Kč**
+* Částka: bude upřesněna
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
 Platební údaje pro platbu ze **Slovenska**:
 
 * IBAN: **CZ5620100000002501627820**
 * BIC/SWIFT: **FIOBCZPPXXX**
-* Částka: **5 100 Kč**
+* Částka: bude upřesněna
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
 Celou částku prosíme uhradit **do 30 dnů po přihlášení**, nejpozději pak do **1. května**,
