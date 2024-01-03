@@ -61,15 +61,14 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
   name="Kačka Musílková"
   avatar="/assets/img/kacka_musilkova.jpg"
   role="Vedoucí"
-  about="Kačka vystudovala architekturu na ČVUT v Praze. Už odmala však z
-  hlavního města unikala o prázdninách do přírody na tábor a po dvou letech
-  pauzy to nevydržela bez táborové atmosféry a začala jezdit jako
-  praktikantka a posléze vedoucí. Pro práci s dětmi jí pomohlo vyškolit i
-  vyrůstání se třemi sourozenci.
-<br>
-  Ve svém volnu si jednou týdně zaběhá při florbale a čas od času ráda
-  zahraje na klavír. Přitahuje jí tajuplnost historie a všech památek,
-  které zanechala. Na výlet ale s nadšením vyrazí i do hor." %}
+  about="Kačka pracuje jako architektka na obnovách památek a historických objektů. Už odmala
+z Prahy unikala o prázdninách do přírody na tábor a po dvou letech pauzy to nevydržela bez
+táborové atmosféry a začala jezdit jako praktikantka a posléze vedoucí. Na práci s dětmi jí
+pomohlo připravit i vyrůstání se třemi sourozenci. Nejmenším táborníkům ráda přečte pohádku
+na dobrou noc a snaží se vyslechnout a usmířit každé dětské trápení. Několik let hrála závodně
+florbal, a tak umí děti na táboře i pořádně prohnat, když je potřeba. :) U táboráku vydrží
+zpívat až do noci. Ve svém volnu si ráda zahraje na klavír, na výlet s nadšením vyrazí na
+tajuplný hrad nebo do hor." %}
 
 {% include person.html
   name="Erika Musílková"
