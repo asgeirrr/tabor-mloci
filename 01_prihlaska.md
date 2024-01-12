@@ -3,8 +3,9 @@ title: Přihláška
 permalink: /prihlaska/
 ---
 
-Na tábor můžete své děti přihlásit v online formuláři, který bude zpřístupněn 
-na této stránce 15. 1. 2024.
+Na tábor můžete své děti přihlásit v [tomto formuláři](https://docs.google.com/forms/d/e/1FAIpQLSdmdI8k_GxsnL2CNSkv6XZRoVCAyTKLITpqGogzxSrGvZi77A/viewform?usp=sf_link).
+
+Formulář bude otevřen 15. 1. 2024.
 
 
 ### Platební údaje
