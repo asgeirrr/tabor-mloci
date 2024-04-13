@@ -124,14 +124,14 @@ gallery:
   - url: /assets/img/2023/39.jpg
     image_path: /assets/img/thumbnails/2023/39.jpg
     alt: ""
-  - url: /assets/img/3023/40.jpg
-    image_path: /assets/img/thumbnails/3023/40.jpg
+  - url: /assets/img/2023/40.jpg
+    image_path: /assets/img/thumbnails/2023/40.jpg
     alt: ""
-  - url: /assets/img/3023/41.jpg
-    image_path: /assets/img/thumbnails/3023/41.jpg
+  - url: /assets/img/2023/41.jpg
+    image_path: /assets/img/thumbnails/2023/41.jpg
     alt: ""
-  - url: /assets/img/3023/42.jpg
-    image_path: /assets/img/thumbnails/3023/42.jpg
+  - url: /assets/img/2023/42.jpg
+    image_path: /assets/img/thumbnails/2023/42.jpg
     alt: ""
 
 
