@@ -3,6 +3,11 @@ title: Tábor s mloky 2024
 permalink: /
 ---
 
+# Bližší informace před odjezdem
+
+Organizační informace k odjezdu a příjezdu naleznete [zde](https://dohttps://tabor-mloci.cz/info_pred_odjezdem/).
+
+
 # Čarodějná škola 2024
 
 Tábor v roce 2024 proběhne na stejném místě v termínu
