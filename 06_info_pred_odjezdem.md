@@ -72,7 +72,8 @@ Odjezd na tábor se nám blíží! Na této stránce najdete detailnější info
 
 ---
 
-Průběh tábora bude průběžně dokumentován - na Facebookové stránce **Tábor s Mloky - Lipná u Potštátu** a instagramovém profilu **@tabormloci** - takže pokud nás ještě nesledujete a chcete vědět, co se průběžně děje v našem skromném táboře, je na čase začít!
+Průběh tábora bude průběžně dokumentován - na Facebookové stránce **Tábor s Mloky - Lipná u Potštátu** a instagramovém profilu [@tabormloci](https://www.instagram.com/tabormloci/) - takže pokud nás ještě nesledujete a chcete vědět, co se průběžně děje v našem skromném táboře, je na čase začít!
+
 
 Všem hrozně moc děkujeme za spolupráci. Moc se těšíme na děti i na Vás! 
 S jakýmikoliv dotazy se můžete obrátit na Eliz (608 920 190)
