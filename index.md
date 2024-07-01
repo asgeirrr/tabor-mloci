@@ -5,7 +5,7 @@ permalink: /
 
 # Bližší informace před odjezdem
 
-Organizační informace k odjezdu a příjezdu naleznete [zde](https://dohttps://tabor-mloci.cz/info_pred_odjezdem/).
+Organizační informace k odjezdu a příjezdu naleznete [zde](https://tabor-mloci.cz/info_pred_odjezdem/).
 
 
 # Čarodějná škola 2024
