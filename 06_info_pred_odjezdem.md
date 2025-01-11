@@ -39,6 +39,8 @@ Odjezd na tábor se nám blíží! Na této stránce najdete detailnější info
 
 # Odjezd / Příjezd
 
+Informace k dopravě níže se týkají roku 2024, budou ještě upraveny.
+
 ## Pro děti jedoucí z Prahy
 
 * Sraz máme v sobotu 6. července v 9:00 ráno, jako minulý rok na malém parkovišti u nástupiště 1B, Hlavního nádraží v Praze, hodně z Vás pojede autem a je to jediné místo u Hlavního nádraží, kam můžeme zajet s více auty, parkoviště je placené - 50 kč / hodinu.

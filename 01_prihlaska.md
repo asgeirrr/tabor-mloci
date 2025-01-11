@@ -3,9 +3,9 @@ title: Přihláška
 permalink: /prihlaska/
 ---
 
-Na tábor můžete své děti přihlásit v [tomto formuláři](https://docs.google.com/forms/d/e/1FAIpQLSdmdI8k_GxsnL2CNSkv6XZRoVCAyTKLITpqGogzxSrGvZi77A/viewform?usp=sf_link).
+Na tábor můžete své děti přihlásit v [tomto formuláři](https://docs.google.com/forms/d/e/1FAIpQLSe2J0pI6X9vSdSXeu89RM0UkGPXul9b_8k49FZNwGq0uKrrdQ/viewform?usp=dialog).
 
-Formulář bude otevřen 15. 1. 2024 v 18:00.
+Formulář bude otevřen 15. 1. 2025 v 18:00.
 
 
 ### Platební údaje
@@ -14,27 +14,27 @@ Po vyplnění přihlášky pošlete prosím platbu za táborový poukaz na násl
 účet, nezapomeňte prosím na variabilní symbol, abychom mohli spárovat platbu.
 
 * Číslo účtu: **2501627820/2010** (Fio banka)
-* Částka: **5 500 Kč**
+* Částka: **5 800 Kč**
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
 Platební údaje pro platbu ze **Slovenska**:
 
 * IBAN: **CZ5620100000002501627820**
 * BIC/SWIFT: **FIOBCZPPXXX**
-* Částka: bude upřesněna
+* Částka: **5 800 Kč**
 * Variabilní symbol: **celé rodné číslo dítěte bez lomítka**
 
 Celou částku prosíme uhradit **do 30 dnů po přihlášení**, nejpozději pak do **1. května**,
 déle nemůžeme dítěti držet místo bez zaplacení a může se stát, že místo přepustíme náhradníkovi,
 který zaplatí.
 
-Pokud potřebujete na poukaz vystavit fakturu, protože vám ho například proplácí
+**Pokud potřebujete na poukaz vystavit fakturu, protože vám ho například proplácí
 zaměstnavatel, kontaktujte nás prosím na
-<a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a>.
+<a href="mailto:info@tabor-mloci.cz">info@tabor-mloci.cz</a>.**
 
-Pokud potřebujete potvrzení o absolvování dětského tábora pro pojišťovnu, prosíme
+**Pokud potřebujete potvrzení o absolvování dětského tábora pro pojišťovnu, prosíme
 dokument přiložte k vyplněným dokumentům dítěte, které odevzdáváte zdravotnici.
-Bude potvrzen po absolvování tábora a předán do vlastní ruky.
+Bude potvrzen po absolvování tábora a předán do vlastní ruky.**
 
 ### Storno podmínky
 
