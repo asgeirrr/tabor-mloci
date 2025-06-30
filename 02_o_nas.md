@@ -58,7 +58,7 @@ A protože jim nedávno život obohatil syn Jindříšek, třímá teď Jirka t�
 <br>Ve svém volném čase hraje volejbal, jezdí na lyžích a hraje na kytaru. Miki rád pořádá sportovní a vědomostní soutěže. " %}
 
 {% include person.html
-  name="Kačka Musílková"
+  name="Kačka Hofmanová"
   avatar="/assets/img/kacka_musilkova.jpg"
   role="Vedoucí"
   about="Kačka pracuje jako architektka na obnovách památek a historických objektů. Už odmala
