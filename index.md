@@ -1,16 +1,16 @@
 ---
-title: Tábor s mloky 2025
+title: Tábor s mloky 2026
 permalink: /
 ---
 
 
-# Divoký západ 2025
+# Vikingové 2026
 
-Tábor v roce 2025 proběhne na stejném místě v termínu
-**od 5.7. do 18.7 2025**. Celková cena je **5 800 Kč**.
+Tábor v roce 2026 proběhne na stejném místě v termínu
+**od 11.7. do 24.7 2026**. Celková cena je **6 500 Kč**.
 
-Vypravíme se zkoumat divoký západ - svět Indiánů,
-banditů a kovbojů. 
+Pod dohledem severských božstev se vypravíme se na putování
+po neprozkoumaných mořích a ostrovech.
 
 Můžete se těšit na zpívání s kytarou a zlepšování
 rukodělných, divadelních i zálesáckých dovedností.
@@ -18,6 +18,6 @@ rukodělných, divadelních i zálesáckých dovedností.
 Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
 Potštátu a vojenského újezdu Libavá.
 
-<a href="/assets/img/2025/00.jpg" >
-  <img class="" src="/assets/img/2025/00.jpg" />
+<a href="/assets/img/2026/00.jpg" >
+  <img class="" src="/assets/img/2026/00.jpg" />
 </a>

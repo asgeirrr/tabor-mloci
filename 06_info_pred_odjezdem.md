@@ -39,7 +39,7 @@ Odjezd na tábor se nám blíží! Na této stránce najdete detailnější info
 
 # Odjezd / Příjezd
 
-Informace k dopravě níže se týkají roku 2024, budou ještě upraveny.
+Informace k dopravě níže se týkají předchozích let, budou ještě upraveny.
 
 ## Pro děti jedoucí z Prahy
 
