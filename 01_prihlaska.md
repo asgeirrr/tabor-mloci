@@ -5,7 +5,6 @@ permalink: /prihlaska/
 
 Na tábor můžete své děti přihlásit v [tomto formuláři](https://docs.google.com/forms/d/e/1FAIpQLScUPOYDG52SkNKBYHsjjvTkbtvCGRZIoNBoA7eRx2Faz7K7yQ/viewform?usp=publish-editor).
 
-Formulář bude otevřen 1. 1. 2026 v 18:00.
 
 
 ### Platební údaje

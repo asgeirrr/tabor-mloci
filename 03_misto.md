@@ -7,6 +7,10 @@ Jedná se o zaběhnutou pionýrskou základu s veškerým potřebným zázemím.
 Více informací najdete na stránkách
 [pionýrské skupiny J.A. Komenského](https://komenskeho.pionyr.cz/#zakladna).
 
+Pro děti zajišťujeme společnou dopravu z Hlavního nádraží v Praze, vlakem a poté
+autobusem. Pokud se vám společná doprava nehodí, je možné děti dovézt přímo
+do základny v den začátku tábora.
+
 <a href="/assets/img/taboriste.jpg">
   <img src="/assets/img/taboriste.jpg" alt="Tábořiště." />
 </a>

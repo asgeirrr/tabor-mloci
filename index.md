@@ -15,8 +15,9 @@ po neprozkoumaných mořích a ostrovech.
 Můžete se těšit na zpívání s kytarou a zlepšování
 rukodělných, divadelních i zálesáckých dovedností.
 
-Čeká nás dobrodružná cesta vlakem a poznávání krásného kraje kolem
+Čeká nás dobrodružná cesta vlakem z Prahy a poznávání krásného kraje kolem
 Potštátu a vojenského újezdu Libavá.
+
 
 <a href="/assets/img/2026/00.jpg" >
   <img class="" src="/assets/img/2026/00.jpg" />
