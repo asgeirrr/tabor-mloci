@@ -43,34 +43,34 @@ Informace k dopravě níže se týkají předchozích let, budou ještě upraven
 
 ## Pro děti jedoucí z Prahy
 
-* Sraz máme v sobotu 6. července v 9:00 ráno, jako minulý rok na malém parkovišti u nástupiště 1B, Hlavního nádraží v Praze, hodně z Vás pojede autem a je to jediné místo u Hlavního nádraží, kam můžeme zajet s více auty, parkoviště je placené - 50 kč / hodinu.
+* Sraz máme v sobotu 11. července v 8:30 ráno, jako v minulých letech na malém parkovišti u nástupiště 1B, Hlavního nádraží v Praze. Buďte tam prosím včas. Hodně z Vás pojede autem a je to jediné místo u Hlavního nádraží, kam můžeme zajet s více auty, parkoviště je placené - 50 kč / hodinu.
 
 * Přesné souřadnice parkoviště -  [50.0845100N, 14.4361647E](https://mapy.cz/letecka?q=50.0845100N%2C%2014.4361647E&source=coor&id=14.4361647%2C50.08451&ds=1&x=14.4362023&y=50.0845909&z=18), popřípadě adresa jedné z firem přímo na parkovišti - [Wilsonova 301/10, 120 00 Praha 2 - Vinohrady](https://mapy.cz/zakladni?q=Wilsonova%20301%2F10%2C%20120%2000%20Praha%202%20-%20Vinohrady%2C%20%C4%8Cesko&source=addr&id=9103426&ds=1&x=14.4369184&y=50.0849217&z=18)
 
 * Velké tašky/kufry dáme do dodávky, která tam bude připravena, proběhne předání dokumentů, kontrola vší ve vlasech a předání dětí. Přijeďte prosím včas, abychom to všechno stihli, v případě problémů volejte Kačce na telefon 732 588 191.
 
-* Vlak odjíždí v 10:19, jedná se o spoj *EC 115 Cracovia*, v Hranicích na Moravě (očekávaný příjezd v 13:13) přestupujeme na autobus a do tábora přijíždíme v cca 14:00, pojedeme dlouho, takže prosím, vybavte děti malým cestovním batůžkem s pitím a přiměřeným obědem do vlaku, v táboře budou mít až večeři.
+* Vlak odjíždí v 9:41, jedná se o spoj *RJ 1005 RegioJet*, v Hranicích na Moravě (očekávaný příjezd v 12:31) přestupujeme na autobus a do tábora přijíždíme v cca 14:00, pojedeme dlouho, takže prosím, vybavte děti malým cestovním batůžkem s pitím a přiměřeným obědem do vlaku, v táboře budou mít až večeři.
 
 ### Důležité! - odjezd z tábora
 
-* Jelikož tento rok odjíždíme v **pátek** 19. července, bude velký problém s průjezdností Prahou - hlavně v tuto hodinu okolo hlavního nádraží.
+* Jelikož tento rok odjíždíme v **pátek** 24. července, bude velký problém s průjezdností Prahou - hlavně v tuto hodinu okolo hlavního nádraží.
 
-* Proto oznamujeme, že **měníme místo pro vyzvedávání dětí** a kufrů - sejdeme **na parkovišti u metropole Zličín** - přesné místo za včas upřesníme (ale předpokládáme hlavní vchod s nápisem metropole).
+* Proto se sejdeme na parkovišti u metropole Zličín, v zadní části u Primarku.
 
-* Plánovaný příjezd vlakem do Prahy je ve 12:35, metro směr Zličín jede 32 minut, doufáme že vlak nebude mít zpoždění a budeme schopni být okolo 13:30 na Zličíně.
+* Plánovaný příjezd vlakem do Prahy je ve 14:18, metro směr Zličín jede 32 minut, doufáme že vlak nebude mít zpoždění a budeme schopni být okolo 15:00 na Zličíně.
 
-* Případné zpoždění vlaku můžete sledovat na webu českých drah, jedná se o spoj *EC 220 Valašský expres*.
+* Případné zpoždění vlaku můžete sledovat na webu českých drah, jedná se o spoj *RJ 1010 RegioJet*.
 
 * **Prosíme!**, děti do 15 let mají dopravu po Praze zdarma, ale musí u sebe mít nějaký platný průkaz totožnosti (průkazku na autobus, ISIC, občanský průkaz), proto prosíme, do peněženky sebou vemte i tuto kartičku. To samé platí pro děti ve věku od 15 - 18 let, potřebujeme průkaz totožnosti, abychom mohli koupit zlevněné jízdenky. 
 
 
 ## Pro děti, které přijedou rovnou na tábor
 
-* Přivezte prosím děti do tábora v sobotu 6. července ve **14:30**, dříve by nám to způsobilo problémy, protože by ještě nemusela být přítomna zdravotnice, která by u předání dětí měla být.
+* Přivezte prosím děti do tábora v sobotu 11 července ve **14:00**, dříve by nám to způsobilo problémy, protože by ještě nemusela být přítomna zdravotnice, která by u předání dětí měla být.
 
-* Adresa je [Lipná 46, 753 62, Potštát](https://mapy.cz/letecka?q=Lipn%C3%A1%2046%2C%20753%2062%2C%20Pot%C5%A1t%C3%A1t&source=addr&id=10137968&ds=1&x=17.6921557&y=49.6668219&z=19), tábor je v malé vesnici a dá se tam bez problémů dojet autem, v případě problémů volejte Jirkovi na 776 275 724.
+* Adresa je [Lipná 46, 753 62, Potštát](https://mapy.cz/letecka?q=Lipn%C3%A1%2046%2C%20753%2062%2C%20Pot%C5%A1t%C3%A1t&source=addr&id=10137968&ds=1&x=17.6921557&y=49.6668219&z=19), tábor je v malé vesnici a dá se tam bez problémů dojet autem, v případě problémů volejte Pétě na 607 161 117.
 
-* Pro děti si prosím přijeďte **v pátek 19.července po 9:00**.
+* Pro děti si prosím přijeďte **v pátek 24.července po 9:00**.
 
 ---
 
